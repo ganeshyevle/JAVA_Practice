@@ -29,7 +29,7 @@ public class Findnum {
                 
             case 2: // February is a leap year
             days = 28; // it's for a leap year
-                break;
+            break;
                 
             default:
                 System.out.println("Invalid month entered.");
